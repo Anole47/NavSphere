@@ -38,6 +38,14 @@
           "description": "",
           "icon": "/assets/favicon_1757920521157.png",
           "enabled": true
+        },
+        {
+          "id": "site_1757920612455_4vz7wm79n",
+          "title": "资源分享",
+          "href": "https://www.yihao.eu.org/",
+          "description": "软件分享",
+          "icon": "/assets/favicon_1757920577357.jpg",
+          "enabled": true
         }
       ],
       "subCategories": []
