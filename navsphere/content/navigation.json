@@ -78,6 +78,14 @@
           "description": "",
           "icon": "/assets/favicon_1757920876490.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1757920965223_p7c5g449e",
+          "title": "Komari监控",
+          "href": "https://ko.11277.eu.org/",
+          "description": "Komari Monitor, a simple server monitoring tool.",
+          "icon": "/assets/favicon_1757920924742.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
