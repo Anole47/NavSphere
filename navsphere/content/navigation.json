@@ -46,6 +46,14 @@
           "description": "软件分享",
           "icon": "/assets/favicon_1757920577357.jpg",
           "enabled": true
+        },
+        {
+          "id": "site_1757920688599_8ovprqb7h",
+          "title": "新心灵舍",
+          "href": "https://anole.serv00.net/",
+          "description": "神创",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=anole.serv00.net",
+          "enabled": true
         }
       ],
       "subCategories": []
