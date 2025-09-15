@@ -54,6 +54,14 @@
           "description": "神创",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=anole.serv00.net",
           "enabled": true
+        },
+        {
+          "id": "site_1757920744159_jsmwe934m",
+          "title": "无限图床",
+          "href": "https://pict.qzz.io/",
+          "description": "电报",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=pict.qzz.io",
+          "enabled": true
         }
       ],
       "subCategories": []
