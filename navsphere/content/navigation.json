@@ -908,6 +908,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1757919584967",
+      "title": "自建站",
+      "icon": "Home",
+      "description": "因兴趣爱好而搭建的站点",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
