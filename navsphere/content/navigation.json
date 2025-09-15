@@ -62,6 +62,14 @@
           "description": "电报",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=pict.qzz.io",
           "enabled": true
+        },
+        {
+          "id": "site_1757920829975_6kqv6ly5i",
+          "title": "N8N工作流",
+          "href": "https://rmb.xx.kg/",
+          "description": "AI智能体",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=rmb.xx.kg",
+          "enabled": true
         }
       ],
       "subCategories": []
