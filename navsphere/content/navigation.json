@@ -30,6 +30,14 @@
           "description": "MoonTV",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=lyh.my.to",
           "enabled": true
+        },
+        {
+          "id": "site_1757920553351_0e399dweq",
+          "title": "不锈钢RWA",
+          "href": "https://stainless-steel-rwa.com/",
+          "description": "",
+          "icon": "/assets/favicon_1757920521157.png",
+          "enabled": true
         }
       ],
       "subCategories": []
