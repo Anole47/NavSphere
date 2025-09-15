@@ -14,6 +14,14 @@
           "description": "Github搭建",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=anole47.github.io",
           "enabled": true
+        },
+        {
+          "id": "site_1757919782536_6jr02pshs",
+          "title": "信息聚合页",
+          "href": "https://echo.cloudns.ch/",
+          "description": "Google搭建",
+          "icon": "/assets/favicon_1757919730781.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
