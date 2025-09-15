@@ -1,96 +1,6 @@
 {
   "navigationItems": [
     {
-      "id": "1757919584967",
-      "title": "自建站",
-      "icon": "Home",
-      "description": "因兴趣爱好而搭建的站点",
-      "enabled": true,
-      "items": [
-        {
-          "id": "site_1757919681049_9sr7b9cuy",
-          "title": "展示",
-          "href": "https://anole47.github.io/",
-          "description": "Github",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=anole47.github.io",
-          "enabled": true
-        },
-        {
-          "id": "site_1757919782536_6jr02pshs",
-          "title": "信息聚合",
-          "href": "https://echo.cloudns.ch/",
-          "description": "Google",
-          "icon": "/assets/favicon_1757919730781.svg",
-          "enabled": true
-        },
-        {
-          "id": "site_1757920433887_hqg6gf6v9",
-          "title": "影视聚合",
-          "href": "https://lyh.my.to/",
-          "description": "MoonTV",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=lyh.my.to",
-          "enabled": true
-        },
-        {
-          "id": "site_1757920553351_0e399dweq",
-          "title": "不锈钢RWA",
-          "href": "https://stainless-steel-rwa.com/",
-          "description": "",
-          "icon": "/assets/favicon_1757920521157.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1757920612455_4vz7wm79n",
-          "title": "资源分享",
-          "href": "https://www.yihao.eu.org/",
-          "description": "软件分享",
-          "icon": "/assets/favicon_1757920577357.jpg",
-          "enabled": true
-        },
-        {
-          "id": "site_1757920688599_8ovprqb7h",
-          "title": "新心灵舍",
-          "href": "https://anole.serv00.net/",
-          "description": "神创",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=anole.serv00.net",
-          "enabled": true
-        },
-        {
-          "id": "site_1757920744159_jsmwe934m",
-          "title": "无限图床",
-          "href": "https://pict.qzz.io/",
-          "description": "电报",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=pict.qzz.io",
-          "enabled": true
-        },
-        {
-          "id": "site_1757920829975_6kqv6ly5i",
-          "title": "N8N工作流",
-          "href": "https://rmb.xx.kg/",
-          "description": "AI智能体",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=rmb.xx.kg",
-          "enabled": true
-        },
-        {
-          "id": "site_1757920902727_a8bbk4nmx",
-          "title": "哪吒监控",
-          "href": "https://11277.eu.org/",
-          "description": "",
-          "icon": "/assets/favicon_1757920876490.svg",
-          "enabled": true
-        },
-        {
-          "id": "site_1757920965223_p7c5g449e",
-          "title": "Komari监控",
-          "href": "https://ko.11277.eu.org/",
-          "description": "Komari Monitor, a simple server monitoring tool.",
-          "icon": "/assets/favicon_1757920924742.ico",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -187,6 +97,96 @@
       "subCategories": [],
       "description": "",
       "enabled": true
+    },
+    {
+      "id": "1757919584967",
+      "title": "自建站",
+      "icon": "Home",
+      "description": "因兴趣爱好而搭建的站点",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1757919681049_9sr7b9cuy",
+          "title": "展示",
+          "href": "https://anole47.github.io/",
+          "description": "Github",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=anole47.github.io",
+          "enabled": true
+        },
+        {
+          "id": "site_1757919782536_6jr02pshs",
+          "title": "信息聚合",
+          "href": "https://echo.cloudns.ch/",
+          "description": "Google",
+          "icon": "/assets/favicon_1757919730781.svg",
+          "enabled": true
+        },
+        {
+          "id": "site_1757920433887_hqg6gf6v9",
+          "title": "影视聚合",
+          "href": "https://lyh.my.to/",
+          "description": "MoonTV",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=lyh.my.to",
+          "enabled": true
+        },
+        {
+          "id": "site_1757920553351_0e399dweq",
+          "title": "不锈钢RWA",
+          "href": "https://stainless-steel-rwa.com/",
+          "description": "",
+          "icon": "/assets/favicon_1757920521157.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1757920612455_4vz7wm79n",
+          "title": "资源分享",
+          "href": "https://www.yihao.eu.org/",
+          "description": "软件分享",
+          "icon": "/assets/favicon_1757920577357.jpg",
+          "enabled": true
+        },
+        {
+          "id": "site_1757920688599_8ovprqb7h",
+          "title": "新心灵舍",
+          "href": "https://anole.serv00.net/",
+          "description": "神创",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=anole.serv00.net",
+          "enabled": true
+        },
+        {
+          "id": "site_1757920744159_jsmwe934m",
+          "title": "无限图床",
+          "href": "https://pict.qzz.io/",
+          "description": "电报",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=pict.qzz.io",
+          "enabled": true
+        },
+        {
+          "id": "site_1757920829975_6kqv6ly5i",
+          "title": "N8N工作流",
+          "href": "https://rmb.xx.kg/",
+          "description": "AI智能体",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=rmb.xx.kg",
+          "enabled": true
+        },
+        {
+          "id": "site_1757920902727_a8bbk4nmx",
+          "title": "哪吒监控",
+          "href": "https://11277.eu.org/",
+          "description": "",
+          "icon": "/assets/favicon_1757920876490.svg",
+          "enabled": true
+        },
+        {
+          "id": "site_1757920965223_p7c5g449e",
+          "title": "Komari监控",
+          "href": "https://ko.11277.eu.org/",
+          "description": "Komari Monitor, a simple server monitoring tool.",
+          "icon": "/assets/favicon_1757920924742.ico",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
     },
     {
       "id": "9",
