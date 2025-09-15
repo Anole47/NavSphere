@@ -70,6 +70,14 @@
           "description": "AI智能体",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=rmb.xx.kg",
           "enabled": true
+        },
+        {
+          "id": "site_1757920902727_a8bbk4nmx",
+          "title": "哪吒监控",
+          "href": "https://11277.eu.org/",
+          "description": "",
+          "icon": "/assets/favicon_1757920876490.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
